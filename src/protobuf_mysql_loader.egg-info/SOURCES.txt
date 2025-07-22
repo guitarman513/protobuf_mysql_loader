@@ -1,0 +1,15 @@
+README.md
+setup.cfg
+setup.py
+src/protobuf_mysql_loader/__init__.py
+src/protobuf_mysql_loader/a_main.py
+src/protobuf_mysql_loader.egg-info/PKG-INFO
+src/protobuf_mysql_loader.egg-info/SOURCES.txt
+src/protobuf_mysql_loader.egg-info/dependency_links.txt
+src/protobuf_mysql_loader.egg-info/requires.txt
+src/protobuf_mysql_loader.egg-info/top_level.txt
+src/protobuf_mysql_loader/api_provider/__init__.py
+src/protobuf_mysql_loader/api_provider/project_pb2.py
+src/protobuf_mysql_loader/db/__init__.py
+src/protobuf_mysql_loader/db/mysql_creation.py
+src/protobuf_mysql_loader/db/mysql_utils.py
